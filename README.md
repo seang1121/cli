@@ -17,7 +17,7 @@ Drive, Gmail, Calendar, and every Workspace API. Zero boilerplate. Structured JS
 
 ## What It Does
 
-A dynamic CLI that reads Google's [Discovery Service](https://developers.google.com/discovery) at runtime and builds its entire command surface automatically. When Google adds an API endpoint, `gws` picks it up without a code change. Ships with 107 slash command skills for Claude Code and other AI agents.
+A dynamic CLI that reads Google's [Discovery Service](https://developers.google.com/discovery) at runtime and builds its entire command surface automatically. When Google adds an API endpoint, `gws` picks it up without a code change. Ships with 107 slash command skills for AI-assisted development workflows.
 
 ## Features
 
